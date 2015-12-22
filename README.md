@@ -15,6 +15,7 @@ Specifically, kind(item) returns the global object that best matches that item. 
 [![Build Status](https://secure.travis-ci.org/mikemaccana/kind.js.png?branch=master)](https://travis-ci.org/mikemaccana/kind.js)
 
 ## What sort of thing does kind do?
+### _a.k.a. kind(kind)_
 
 ### Numbers
 
